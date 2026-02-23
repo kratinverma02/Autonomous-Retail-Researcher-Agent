@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+langchain
+langchain-google-genai
+google-genai
+tavily-python
+streamlit
+sentence-transformers
