@@ -23,7 +23,7 @@ It transforms traditional manual retail research into a scalable AI-powered work
 
 🚀 8. Installation & Setup  
   Step 1: Clone Repository
-  git clone https://github.com/your-username/autonomous-retail-researcher-agent.git  
+  git clone https://github.com/kratinverma02/Autonomous-Retail-Researcher-Agent.git  
   cd autonomous-retail-researcher-agent
 
   Step 2: Create Virtual Environment  
